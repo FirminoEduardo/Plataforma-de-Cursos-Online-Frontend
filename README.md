@@ -1,46 +1,25 @@
----
+# 🎓 Plataforma de Cursos Online - Frontend
 
-### 📌 **Repositório: PlataformaCursos-Frontend**
-**Descrição:**  
-Este repositório contém o frontend da plataforma de cursos online, desenvolvido com **React.js**. Aqui os alunos podem se inscrever em cursos, assistir aulas e acompanhar seu progresso.
-
-📌 **Tecnologias:**  
-- **React.js** (Framework principal)  
-- **Vite** (Build otimizado)  
-- **Tailwind CSS** (Estilização)  
-- **Axios** (Consumo da API)  
-- **React Router** (Navegação)  
-- **Stripe SDK** (Pagamentos)  
-
-📌 **Principais Páginas:**  
-✅ Página inicial com lista de cursos  
-✅ Cadastro/Login de usuários  
-✅ Tela de aprendizado interativa  
-✅ Pagamento de cursos via Stripe  
-✅ Emissão de certificados  
-
----
-
-📄 **README do Frontend:**  
-
-```md
-# Plataforma de Cursos - Frontend
-
-Este repositório contém o frontend da Plataforma de Cursos Online, desenvolvido com **React.js** e **Tailwind CSS**.
+Este repositório contém o frontend da **Plataforma de Cursos Online**, desenvolvido com **React.js** e **Tailwind CSS**. A aplicação permite que alunos se inscrevam em cursos, assistam aulas, realizem pagamentos e acompanhem seu progresso.
 
 ## 🚀 Tecnologias Utilizadas
-- React.js + Vite
-- Tailwind CSS
-- Axios (requisições à API)
-- React Router (navegação)
-- Stripe SDK (pagamentos)
+
+- **React.js + Vite** (Framework e build otimizado)
+- **Tailwind CSS** (Estilização moderna e responsiva)
+- **React Router** (Gerenciamento de rotas)
+- **Axios** (Requisições à API)
+- **Stripe SDK** (Processamento de pagamentos)
 
 ## 📌 Funcionalidades
-- Listagem de cursos disponíveis
-- Cadastro e login de usuários
-- Área do aluno para assistir aulas
-- Pagamento online via Stripe
-- Emissão de certificados
+
+✅ Página inicial com lista de cursos disponíveis  
+✅ Cadastro e login de usuários (alunos e instrutores)  
+✅ Área do aluno para assistir aulas e acompanhar o progresso  
+✅ Pagamento de cursos via **Stripe**  
+✅ Emissão de certificados ao concluir cursos  
+✅ Painel do instrutor para gerenciamento de cursos  
+
+---
 
 ## 🛠️ Configuração do Ambiente
 
